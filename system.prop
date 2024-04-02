@@ -30,6 +30,9 @@ persist.data.df.ul_mode=5
 # DPM
 persist.vendor.dpm.feature=11
 
+# Graphics
+debug.sf.predict_hwc_composition_strategy=0
+
 # HWUI
 debug.hwui.skia_atrace_enabled=false
 
