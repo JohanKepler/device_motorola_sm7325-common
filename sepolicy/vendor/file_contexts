@@ -13,3 +13,6 @@
 # Lights
 /(vendor|system/vendor)/bin/hw/android\.hardware\.lights-service\.berlna                                         u:object_r:hal_light_default_exec:s0
 /(vendor|system/vendor)/bin/hw/android\.hardware\.lights-service\.xpeng                                          u:object_r:hal_light_default_exec:s0
+
+# Power
+/vendor/bin/hw/android\.hardware\.power-service\.pixel-libperfmgr	u:object_r:hal_power_default_exec:s0
